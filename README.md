@@ -49,6 +49,11 @@ The data includes the daily reservoir levels recorded by the Central Water Commi
 - Full Reservoir Level (FRL)
 - Percentage of Full Reservoir Level
 
+## Contact
+
+- *Name*: Gaurav Jain
+- *Email*: jaingaurav906@gmail.com
+- *GitHub*: https://github.com/gauravjain03
 
 
 ---
