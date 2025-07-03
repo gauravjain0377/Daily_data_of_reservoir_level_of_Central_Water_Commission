@@ -53,7 +53,7 @@ The data includes the daily reservoir levels recorded by the Central Water Commi
 
 - *Name*: Gaurav Jain
 - *Email*: jaingaurav906@gmail.com
-- *GitHub*: https://github.com/gauravjain03
+- *GitHub*: https://github.com/gauravjain0377
 
 
 ---
